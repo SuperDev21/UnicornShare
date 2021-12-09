@@ -1,0 +1,120 @@
+.divTitreLogoModal{
+  text-transform: uppercase;
+  color: white;
+  margin-top: 15%;
+}
+.contenuModal{
+  background-color: black;
+  color: white;
+}
+.btn-close-modal{
+  border: none;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+.uploadForm{
+  background-color:#ffcd38;
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+.containerForm{
+  
+  display: flex;
+}
+
+  h1{
+    color: white;
+    margin-top: 5%;
+    /* background-color: #292a2b; */
+
+
+  
+  
+/* .header{
+    /* background-color: #292a2b; */
+    /* display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid;
+    /* border-bottom-color: white; */
+/* } */
+
+/* .logoModale{
+  height: 10%;
+  width: 15%;
+} */
+
+/* textarea {
+  /* background-color: white; */
+  /* width: 200%;
+  font-family: GeoEditBold, sans-serif;; */
+
+   
+/* ul {
+  list-style: none;
+  /* width: 600%; */
+
+
+
+/* @media screen and (min-width: 600px) {
+  .my-form .grid {
+    display: grid;
+    grid-gap: 1.5rem;
+  }
+     
+    .my-form .grid-2 {
+      grid-template-columns: 1fr 1fr;   
+    }
+  }
+
+
+
+label{
+    color: white;
+    font-weight: bold;
+    margin-top: 5%;
+    font-family: GeoEditBold, sans-serif;
+    font-size: 150%;
+}  */
+ 
+/* .my-form textarea {
+  height: 170px;
+
+}
+
+.closeButton{
+    width: 3%;
+    height: 20%;
+    font-size: 100%;
+    color: white;
+  } */
+
+
+
+/* .backgroundInput{
+    /* background-color: white; */
+  /* } */
+
+/* .inputPosition{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+  } */
+
+/* .my-form button{
+  background-color:yellow;
+*/

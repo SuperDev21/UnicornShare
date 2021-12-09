@@ -1,0 +1,111 @@
+footer {
+  display: block;
+}
+.footer_h3 {
+  font-family: GeoEditBold,sans-serif;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+  color: #ffffff;;
+}
+
+
+.footer_container {
+  /* border: 2px solid red; */
+  background-color: #000000;
+  clear: both;
+  padding: 0 15px 20px 15px;
+  font-family: GeoEditRegular,sans-serif;
+  font-size: 12px;
+}
+
+.footer_bloc1 {
+  /* border: 2px solid blue; */
+  padding-bottom: 10px;  
+  display: flex;
+  flex-direction: row;
+  padding-top: 20px;
+  justify-content: space-around;
+  
+
+}
+.ul_footer {
+  list-style-type: none;
+  padding: 0;
+}
+.ul_bloc2_footer {
+  display: flex;
+  /* -webkit-box-pack: center; */
+  flex-wrap: wrap;
+  justify-content: center;
+  
+}
+.footer_a {
+  text-decoration: none;
+  color: #ffffff;
+  font-family: GeoEditBold,sans-serif;
+  font-size: 10px;
+  
+}
+.footer_a:hover{
+  color: white !important;
+}
+.li_footer {
+  margin-right: 30px;
+  font-size: 10px;
+  line-height: 2;
+}
+
+.bloc2_footer {
+  /* border: 2px solid red; */
+  /* padding: 1%; */
+  margin-top: 1%;
+
+}
+.partie1-bloc2_footer {
+  /* border-bottom: 1px solid #ffffff;
+  margin-bottom: 4px; */
+  margin: 0 7%;
+  border-bottom: solid 1px #333333;
+
+}
+.partie2-bloc2_footer {
+  /* border: 2px solid green; */
+  /* padding: 1%; */
+  color: #ffffff;
+  font-family: GeoEditBold,sans-serif;
+  font-size: 8px;
+  line-height: 1.5;
+  letter-spacing: 2px;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 1.5%;
+  
+  
+}
+.css-1psceqd {
+  height: 15px;
+  width: 15px;
+  color: white;
+  fill: currentColor;
+  display: inline-block;
+  
+}
+.css-1psceqd :hover {
+  color: #fc0;
+}
+
+.hidden {
+  display: none;
+}
+.bloc_social_media {
+  display: flex;
+}
+
+.margin_icons_SM {
+  margin-right: 20px;
+}

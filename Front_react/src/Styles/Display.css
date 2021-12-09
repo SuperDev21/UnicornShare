@@ -1,0 +1,111 @@
+.containerDisplay {
+  font-family: GeoEditBold,sans-serif;
+  margin-left: 5%;
+}
+.cat_name {
+  display: inline-block;
+  width: fit-content;
+  min-height: 1.5rem;
+  margin-bottom: 1rem;
+  margin-top: 3%;
+  border-right: 1px solid rgb(153, 153, 153);
+  border-left: 1px solid rgb(153, 153, 153);
+  padding: 0px 1rem;
+  font-weight: 400;
+  font-size: 0.75rem;
+  letter-spacing: 0.1875rem;
+  line-height: 1.4;
+  font-family: GeoEditBold, sans-serif;
+  text-transform: uppercase;
+  color: rgb(0, 0, 0);
+}
+.title {
+  font-family: GeoEditBold, sans-serif;
+  font-weight: 700;
+  font-size: 2rem;
+  line-height: 1.2;
+  color: rgb(0, 0, 0);
+}
+.date_publication {
+  font-family: GeoEditBold, sans-serif;
+  margin-top: 1%;  
+  margin-bottom: 1%;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 2px;
+  color: rgb(85, 85, 85);
+  text-transform: uppercase;
+  display: flex;
+  flex-direction: column;
+}
+.description {
+  margin-top: 1%;
+  margin-left: 5%;
+  margin-bottom: 5%;
+  font-family: GeoEditRegular,sans-serif;
+  font-weight: 400;
+  font-size: .875rem;
+  letter-spacing: .1px;
+  line-height: 20px;
+  color: #333;
+  border-left: 1px solid #555;
+  max-width: 100%;
+  position: relative;
+  cursor: auto;
+  padding: 0px 1rem;
+}
+.the_picture {
+  width: 900px;
+  height: 506px;
+  margin-left: 2%;
+    
+}
+.zone_comment { 
+  padding: 10px 30px;
+  width: max-content;
+  color: black;
+  background-color: #E5E5E5;
+  border:0px solid #333 ;
+  margin-top:10px;
+  font-family: GeoEditRegular,sans-serif;
+  margin-right: 5%;  
+  
+}
+.buttonComment {
+  text-transform: uppercase;
+  padding: 10px 30px;
+  color: black;
+  background-color: #ffcd38;
+  border:0px solid white;
+  margin-top:10px;
+  font-weight: bold;
+  margin-right: 10%;
+  font-family: GeoEditRegular,sans-serif;
+}
+
+.comments_holder {
+  margin-left: 5%;
+  margin-bottom: 3%;
+
+}
+
+
+.old_comments {
+font-family: GeoEditRegular,sans-serif;
+margin-left: 5%;
+margin-bottom: 5%;
+font-weight: 400;
+font-size: .875rem;
+letter-spacing: .1px;
+line-height: 20px;
+color: #333;  
+max-width: 100%;
+position: relative;
+cursor: auto;
+border-left: 1px solid #555;
+padding: 0px 1rem;
+
+}
